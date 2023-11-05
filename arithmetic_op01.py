@@ -3,3 +3,11 @@
 # Create a variable 'num_two'   and assign it the value of the int 4.
 
 # Find the sum of  'num_one' and 'num_two' then assign to 'variable_total'
+num_one = 5
+num_two = 4
+
+Birinchi_raqam = num_one + num_two
+ikkinchi_raqam = num_one - num_two
+ozgaruvchi_jami = Birinchi_raqam + ikkinchi_raqam
+
+print(ozgaruvchi_jami)
